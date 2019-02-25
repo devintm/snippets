@@ -1,0 +1,11 @@
+bandwidth-monitor
+=================
+This snippet prints out the bandwidth which is being consumed; refreshes every 1 second.
+
+
+This tool requires `psutil` and this tool was tested with psutil version 5.5.1
+
+You can install it with the following command:
+
+    $ pip install psutil
+
